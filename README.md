@@ -9,5 +9,5 @@ A JavaSwing system in which the user can receive recommendations based on their 
 * **General Library Features:** Gave users access to add books, rate books, view their ratings, etc. 
 
 ## Technologies Used
-* Languages: Java
-* Libraries: JavaSwing, IO
+* **Languages:** Java
+* **Libraries:** JavaSwing, IO
